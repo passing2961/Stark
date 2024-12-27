@@ -17,7 +17,7 @@
 
 **Stark** is a publicly available, large-scale, long-term multi-modal conversation dataset that encompasses a diverse range of social personas, multi-modality formats, time intervals, and images. To automatically construct Stark, we introduce a novel multi-modal contextualization framework, **MCU**, which generates long-term multi-modal dialogues distilled from ChatGPT and our proposed **Plan-and-Execute Image Aligner**. An overview of MCU and an example from Stark are illustrated below.
 
-![MCU Pipeline](stark_mcu_overview.PNG)
+![MCU Pipeline](assets/stark_mcu_overview.PNG)
 
 The **Stark** dataset contains many images that originate from different sources, including a personalized text-to-image generator (i.e., [PhotoMaker](https://photo-maker.github.io/)), [Bing Search](https://pypi.org/project/icrawler/), and Image DB retrieval, thanks to our proposed **Plan-and-Execute** Image Aligner to ensure the high quality of the Stark dataset. Therefore, we divide the entire collection of images into two repositories based on the source:
 
