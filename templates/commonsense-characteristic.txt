@@ -1,0 +1,4 @@
+{demo_sent} {persona_attr} I <characteristic>.
+
+Generate the most appropriate sentence for "<characteristic>" in the given sentence. You must provide the answer corresponding to "<characteristic>".
+<characteristic>: 

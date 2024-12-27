@@ -1,0 +1,4 @@
+{demo_sent} {persona_attr} I regularly <routine/habit>.
+
+Generate the most appropriate sentence for "<routine/habit>" in the given sentence. You must provide the answer corresponding to "<routine/habit>".
+<routine/habit>: 

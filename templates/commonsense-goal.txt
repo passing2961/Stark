@@ -1,0 +1,4 @@
+{demo_sent} {persona_attr} I plan <goal/plan>.
+
+Generate the most appropriate sentence for "<goal/plan>" in the given sentence. You must provide the answer corresponding to "<goal/plan>".
+<goal/plan>: 

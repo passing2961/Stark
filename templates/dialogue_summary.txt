@@ -1,0 +1,7 @@
+The current time and date are {current_date}. {name} and AI assistant talked today and had the following conversation:
+
+{dialogue}
+
+Summarize the conversation between {name} and AI assistant so far. Include key details and include time references wherever possible.
+
+Summarization: 

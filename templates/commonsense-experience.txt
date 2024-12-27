@@ -1,0 +1,4 @@
+I <experience>. Now, {demo_sent} {persona_attr}
+
+Generate the most appropriate sentence for "<experience>" in the given sentence. You must provide the answer corresponding to "<experience>".
+<experience>: 

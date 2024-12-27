@@ -1,0 +1,12 @@
+{name}'s Profile Information:
+- Age: {age}
+- Gender: {gender}
+- Birthplace: {birthplace}
+- Residence: {residence}
+
+Existing image descriptions in {name}'s mobile device: {mobile_device}
+
+The topic of the conversation between the AI assistant and {name} on {date} today is as follows.
+- Topic on {date}: {event}
+
+Generate a long, in-depth conversation with multiple turns based on the given {name}'s profile information and the current topic of conversation.

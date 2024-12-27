@@ -1,0 +1,4 @@
+{name}'s initial personal event: {event}
+
+Given the {name}'s initial personal event, generate the temporal event graph containing more than five events.
+Temporal Event Graph: 

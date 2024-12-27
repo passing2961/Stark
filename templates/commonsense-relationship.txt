@@ -1,0 +1,4 @@
+{demo_sent} {persona_attr} So, I <relationship>.
+
+Generate the most appropriate sentence for "<relationship>" in the given sentence. You must provide the answer corresponding to "<relationship>".
+<relationship>: 

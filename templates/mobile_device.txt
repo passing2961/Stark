@@ -1,0 +1,4 @@
+{sentence}
+
+Image descriptions stored on {name}'s mobile device:
+1. 

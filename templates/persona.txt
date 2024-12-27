@@ -1,0 +1,10 @@
+Profile Information:
+- Age: {age}
+- Gender: {gender}
+- Birthplace: {birthplace}
+- Residence: {residence}
+
+Persona Category: {target_persona_category}
+Persona Entity Key: {target_persona_entity}
+Persona Sentences:
+1. 

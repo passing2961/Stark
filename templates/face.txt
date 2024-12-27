@@ -1,0 +1,6 @@
+Profile Information:
+- Age: {age}
+- Gender: {gender}
+- Nationality: {nationality}
+
+Human Description: 

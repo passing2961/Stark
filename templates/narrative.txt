@@ -1,0 +1,3 @@
+{sentence}
+
+Rewrite this sentence with more specific details in two or three sentences: 

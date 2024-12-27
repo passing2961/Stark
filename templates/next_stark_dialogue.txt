@@ -1,0 +1,16 @@
+{name}'s Profile Information:
+- Age: {age}
+- Gender: {gender}
+- Birthplace: {birthplace}
+- Residence: {residence}
+
+Existing image descriptions in {name}'s mobile device: {mobile_device}
+
+The topics of the conversation the user had with AI assistant by date are as follows:
+{history_event}
+
+{time_interval} later from the {last_date}, on {date} today, {name} has gone through a new experience, and based on this experience, {name} and the AI assistant engage in a conversation today. The new experience {name} went through and the topic of conversation with the AI assistant are as follows.
+- {name}'s Experience: {experience}
+- Topic on {date}: {event}
+
+Generate a long, in-depth conversation with multiple turns based on the given {name}'s profile information, the last topic of conversation, the experience and the current topic of conversation.
